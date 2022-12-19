@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <a href = "mailto: batuhnpc@gmail.com">email</a> .
+    <a href="https://gist.github.com/batunpc">gists</a> .
     <a href="https://www.linkedin.com/in/batuhanipci/">linkedln</a> .
     <a href="https://dev.to/batunpc">dev.to</a> .
     <a href="https://www.holopin.io/@batunpc">holopin</a> .
